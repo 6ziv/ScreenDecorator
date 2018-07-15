@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>U.jpg</file>
+        <file>Welcome.jpg</file>
+        <file>Settings.ico</file>
+    </qresource>
+    <qresource prefix="/others">
+        <file>ScreenDecorator.scr</file>
+    </qresource>
+</RCC>
